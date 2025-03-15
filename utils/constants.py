@@ -20,10 +20,22 @@ DATABASE_PASSWORD = parser.get('database', 'database_password')
 INPUT_PATH = parser.get('file_paths', 'input_path')
 OUTPUT_PATH = parser.get('file_paths', 'output_path')
 
-# [aws]
-# aws_access_key_id = [aws access key id]
-# aws_secret_access_key= [aws secret key]
-# aws_session_token= [aws session token]
-# aws_region = [aws region]
-# aws_bucket_name = [s3 bucket name]
+AWS_ACCESS_KEY_ID = parser.get('aws', 'aws access key id')
+AWS_SECRET_KEY= parser.get('aws', 'aws secret key')
+AWS_SESSION_TOKEN = parser.get('aws', 'aws session token')
+AWS_REGION = parser.get('aws', 'aws region')
+S3_BUCKET_NAME = parser.get('aws', 's3 bucket name')
 
+POST_FIELDS = (
+    'id',
+    'title',
+    'score',
+    'num_comments',
+    'author',
+    'created_utc',
+    'url',
+    'over_18',
+    'edited',
+    'spoiler',
+    'stickied'
+)

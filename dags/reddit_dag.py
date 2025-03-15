@@ -5,6 +5,7 @@ import os, sys
 
 # to run commands in the root dir
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from pipelines import reddit_pipeline, s3_upload
 
 default_args = {
     'owner': 'Oamen Modupe',
@@ -25,6 +26,7 @@ dag = DAG(
 extract = PythonOperator(
     task_id = 'reddit_extraction',
     python_callable=reddit_pipeline,
+    dag = dag,
     op_kwargs = {
         'file_name': f'reddit_pipeline_{file_postfix}',
         'subreddit': 'dataengineering',
@@ -34,3 +36,14 @@ extract = PythonOperator(
 )
 
 # upload to s3
+upload = PythonOperator(
+    task_id = 's3_upload',
+    python_callable = s3_upload,
+    dag = dag,
+    op_kwargs = {
+        ''
+
+    }
+)
+
+extract >> upload

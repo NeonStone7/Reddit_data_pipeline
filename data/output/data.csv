@@ -1,0 +1,24 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1jbm4x5,Elon Musk’s Data Engineering expert’s “hard drive overheats” after processing 60k rows,2679,571,ChipsAhoy21,2025-03-15 03:24:11,https://i.redd.it/wwmitoaavroe1.jpeg,False,False,False,False
+1jbfu25,Migrating from AWS to a European Cloud - How We Cut Costs by 62%,160,19,jpdowlin,2025-03-14 22:11:05,https://www.hopsworks.ai/post/migrating-from-aws-to-a-european-cloud-how-we-cut-costs-by-62,False,False,False,False
+1jbbmeh,Is Data Engineering a boring field?,123,64,Admirable_Honey566,2025-03-14 19:09:56,https://www.reddit.com/r/dataengineering/comments/1jbbmeh/is_data_engineering_a_boring_field/,False,False,False,False
+1jbwjkp,Spark Connect is Awesome 🔥,17,1,Complex_Revolution67,2025-03-15 14:39:50,https://medium.com/@subhamkharwal/pyspark-what-is-spark-connect-f68c8b44bef5,False,False,False,False
+1jboior,DBT Snapshots,9,8,randomName77777777,2025-03-15 05:54:20,https://www.reddit.com/r/dataengineering/comments/1jboior/dbt_snapshots/,False,False,False,False
+1jbdnjd,What are the biggest challenges you face with your primary data pipeline tool?,9,20,LivingBusy3396,2025-03-14 20:35:39,https://www.reddit.com/r/dataengineering/comments/1jbdnjd/what_are_the_biggest_challenges_you_face_with/,False,False,False,False
+1jbopyh,Help with ETL Glue Job for Data Integration,5,3,Necromancer2908,2025-03-15 06:08:12,https://www.reddit.com/r/dataengineering/comments/1jbopyh/help_with_etl_glue_job_for_data_integration/,False,False,False,False
+1jbyl3s,What are the most recent technologies you've used in your day-to-day work?,4,8,cbogdan99,2025-03-15 16:13:02,https://www.reddit.com/r/dataengineering/comments/1jbyl3s/what_are_the_most_recent_technologies_youve_used/,False,False,False,False
+1jburde,Is universal semantic layer even a realistic proposition in BI?,5,10,No_No_Yes_Silly_5850,2025-03-15 13:09:44,https://www.reddit.com/r/dataengineering/comments/1jburde/is_universal_semantic_layer_even_a_realistic/,False,False,False,False
+1jbj76b,RFC Homelab DE infrastructure - please critique my plan,3,2,JamesKim1234,2025-03-15 00:48:57,https://www.reddit.com/r/dataengineering/comments/1jbj76b/rfc_homelab_de_infrastructure_please_critique_my/,False,False,False,False
+1jbgkx3,Building a Reporting Database,3,9,rolkien29,2025-03-14 22:44:31,https://www.reddit.com/r/dataengineering/comments/1jbgkx3/building_a_reporting_database/,False,False,False,False
+1jbq55p,Feedback for AWS based ingestion pipeline,3,11,wibbleswibble,2025-03-15 07:52:56,https://www.reddit.com/r/dataengineering/comments/1jbq55p/feedback_for_aws_based_ingestion_pipeline/,False,False,False,False
+1jbe13p,Best Practices for Handling Schema Changes in ETL Pipelines (Minimizing Manual Updates),2,9,nueva_student,2025-03-14 20:51:53,https://www.reddit.com/r/dataengineering/comments/1jbe13p/best_practices_for_handling_schema_changes_in_etl/,False,False,False,False
+1jbrkdg,Seeking help for Real-Time IoT network data simulation,2,2,Altruistic-Push-4498,2025-03-15 09:42:07,https://www.reddit.com/r/dataengineering/comments/1jbrkdg/seeking_help_for_realtime_iot_network_data/,False,False,False,False
+1jbcx4b,Having no related degree,0,8,omnis66,2025-03-14 20:04:23,https://www.reddit.com/r/dataengineering/comments/1jbcx4b/having_no_related_degree/,False,False,False,False
+1jbcvjb,Tools for file movement,2,7,jott242424,2025-03-14 20:02:38,https://www.reddit.com/r/dataengineering/comments/1jbcvjb/tools_for_file_movement/,False,False,False,False
+1jbzmrq,what technology to learn,0,0,Plastic_Ad_9302,2025-03-15 16:59:21,https://www.reddit.com/r/dataengineering/comments/1jbzmrq/what_technology_to_learn/,False,False,False,False
+1jbzd30,Looking for a IDATABASE management expert,1,1,SnooShortcuts8887,2025-03-15 16:47:31,https://www.reddit.com/r/dataengineering/comments/1jbzd30/looking_for_a_idatabase_management_expert/,False,False,False,False
+1jbzach,How to break into data engineering as a statistics major?,1,1,Puzzled_Ad7812,2025-03-15 16:44:14,https://www.reddit.com/r/dataengineering/comments/1jbzach/how_to_break_into_data_engineering_as_a/,False,False,False,False
+1jbnhl6,Sentiment analysis,1,2,Dry_Masterpiece_3828,2025-03-15 04:47:37,https://www.reddit.com/r/dataengineering/comments/1jbnhl6/sentiment_analysis/,False,False,False,False
+1jbvwlg,What other roles can lead to data engineering besides analytics/SWE,0,11,Kati1998,2025-03-15 14:09:02,https://www.reddit.com/r/dataengineering/comments/1jbvwlg/what_other_roles_can_lead_to_data_engineering/,False,False,False,False
+1jbcc83,Is this data engineering?,0,11,CausticOptimist,2025-03-14 19:39:55,https://www.reddit.com/r/dataengineering/comments/1jbcc83/is_this_data_engineering/,False,False,False,False
+1jbqlcn,Any jobs in tech without coding?,0,13,ComprehensiveMood449,2025-03-15 08:26:44,https://www.reddit.com/r/dataengineering/comments/1jbqlcn/any_jobs_in_tech_without_coding/,False,False,False,False
