@@ -1,0 +1,21 @@
+[project]
+name = "reddit-data-pipeline"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "my_user",email = "oamenmodupe@gmail.com"}
+]
+readme = "README.md"
+requires-python = "==3.10.*"
+dependencies = [
+    "numpy (==1.26.1)",
+    "apache-airflow (==2.7.2)",
+    "pandas (==2.1.1)",
+    "praw (==7.7.1)",
+    "configparser (>=7.2.0,<8.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
